@@ -1,5 +1,11 @@
 # TiiQu-Network
 
+### Associated Repositories
+
+- Prototype for the TiiQu qualification, certification, membership verifier:
+
+    - https://github.com/Samyoul/tiiqu-verifier
+
 ### Points of Reference For Determining Trust
 
 - http://www.advogato.org/trust-metric.html
