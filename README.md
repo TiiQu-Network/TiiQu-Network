@@ -1,5 +1,10 @@
 # TiiQu-Network
 
+### Contents
+
+- [TiiQu Wiki](https://github.com/TiiQu-Network/TiiQu-Network/wiki)
+- [TiiQu White Paper](https://github.com/TiiQu-Network/TiiQu-Network/wiki/White-Paper)
+
 ### Associated Repositories
 
 - Prototype for the TiiQu qualification, certification, membership verifier:
