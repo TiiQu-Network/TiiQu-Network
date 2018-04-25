@@ -9,7 +9,7 @@
 
 - Prototype for the TiiQu qualification, certification, membership verifier:
 
-    - https://github.com/Samyoul/tiiqu-verifier
+    - https://github.com/TiiQu-Network/claim-verifier-prototype
 
 ### Points of Reference For Determining Trust
 
